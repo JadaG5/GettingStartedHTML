@@ -1,0 +1,66 @@
+body{
+    background-color: pink;
+}
+
+img{
+    width:350px;
+    height:200px;
+}
+
+h1{
+
+color: white;
+}
+
+p{
+    text-align: center;
+    color: blue;
+}
+
+ul{
+    color: brown;
+}
+
+ ol{
+     color: purple;
+ }
+
+ form{
+     color:yellow;
+ }
+
+ b{
+     color:red;
+ }
+
+ h1{
+     text-align: right;
+ }
+
+ h1{
+     text-transform: capitalize
+ }
+
+ p{
+     text-decoration: underline;
+ }
+
+ul{
+    text-decoration: line-through;
+}
+
+ol{
+    text-decoration: overline;
+}
+
+table{
+    border-bottom-color: blueviolet;
+}
+
+h2{
+    color: aquamarine;
+}
+
+h3{
+    text-align: right;
+}
