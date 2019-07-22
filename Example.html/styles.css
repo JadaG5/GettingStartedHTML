@@ -64,3 +64,17 @@ h2{
 h3{
     text-align: right;
 }
+
+div{
+    background-color: grey;
+}
+
+#BlockOne{
+    background-color: yellow;
+}
+.daBlocks{
+    background-color: red;
+}
+
+
+
