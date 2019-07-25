@@ -2,13 +2,12 @@ body{
     border: 3px solid black;
     margin: 10px;
     padding: 25px;
-
+    background-color: pink;
 }
 
 p{
     border: 4px dotted red;
     padding: 30px;
-    position: relative;
     left: 50px;
     top: 100px;
 }
@@ -16,9 +15,7 @@ p{
 h1{
     margin-left: 20px;
     margin: auto;
-    position: relative;
-    top: 100px;
-    right: 100px;
+    position: relative; top: relative 100px; right: relative 100px;
 }
 
 h2{
@@ -30,25 +27,21 @@ h2{
      margin-bottom: 50px;
      margin-left: 25px;
      margin-right: 25px;
- }
+}
 
 #Div1{
     height: 100px;
-    position: relative;
-    left: 20px;
-    bottom: 50px;
+    position: relative left: relative 20px; bottom: relative 50px;
 }
 
 #Div2{
     width: 50%;
+    color: white;
 }
 
 #Div3{
     width: 200px;
     padding: 25px;
     border: 25px solid purple;
-}
-
-img.center{
-    z-index: -1;
+    image: width 40%
 }
