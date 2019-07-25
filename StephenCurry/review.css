@@ -1,0 +1,54 @@
+body{
+    border: 3px solid black;
+    margin: 10px;
+    padding: 25px;
+
+}
+
+p{
+    border: 4px dotted red;
+    padding: 30px;
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+
+h1{
+    margin-left: 20px;
+    margin: auto;
+    position: relative;
+    top: 100px;
+    right: 100px;
+}
+
+h2{
+    margin: 25px;
+}
+
+ h3{
+     margin-top: 50px;
+     margin-bottom: 50px;
+     margin-left: 25px;
+     margin-right: 25px;
+ }
+
+#Div1{
+    height: 100px;
+    position: relative;
+    left: 20px;
+    bottom: 50px;
+}
+
+#Div2{
+    width: 50%;
+}
+
+#Div3{
+    width: 200px;
+    padding: 25px;
+    border: 25px solid purple;
+}
+
+img.center{
+    z-index: -1;
+}
