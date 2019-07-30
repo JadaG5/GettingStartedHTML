@@ -63,13 +63,16 @@ h3{
 
 div{
     background-color: grey;
+    font-family: 'Grenze', serif;
 }
 
 #BlockOne{
     background-color: yellow;
+    font-family: 'Lacquer', sans-serif;
 }
 .daBlocks{
     background-color: red;
+    font-family: 'Roboto', sans-serif;
 }
 
 #Static{
