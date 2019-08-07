@@ -161,6 +161,25 @@ div{
     height: 50px;
     width: 40%;
     font-size: 10px;
-
-
 }
+
+a:hover {
+  color:yellow;
+  text-decoration: underline;
+}
+
+a:link {
+  color:red;
+}
+
+a:active {
+  color: greenyellow;
+  text-decoration: line-through;
+}
+
+a:visited {
+  color: brown;
+  font-family: Arial;
+}
+
+
